@@ -1,0 +1,3 @@
+function showAlert() {
+    alert("Cerita utama Honkai: Star Rail diperkirakan akan berlanjut di Versi 1.2, di mana Kafka dan Blade akan menjadi unit banner bintang lima. Ada kemungkinan bahwa Imbibitor Lunae akhirnya bisa muncul di chapter cerita Xianzhou ini, terutama karena dia dikabarkan menjadi karakter banner untuk Versi 1.3 , bersama dengan Fu Xuan. Mungkin ini bisa memberikan penjelasan lebih lanjut tentang masa lalu Imbibitor Lunae sebagai Penatua Tertinggi Luofu dan penjaga Ambrosial Arbor, dan bagaimana dia kembali ke bentuk manusia dalam upaya untuk melarikan diri dari Blade. Selain itu, ini akan memberi pemain gambaran yang lebih baik tentang spesies naga di Honkai: Star Rail , yang juga mencakup Bailu, Pendeta Tinggi Vidyadhara.");
+}
